@@ -1,0 +1,6 @@
+[submodule "LeavePlannerUI"]
+	path = LeavePlannerUI
+	url = https://github.com/Marian2910/LeavePlannerUI.git
+[submodule "LeavePlannerAPI"]
+	path = LeavePlannerAPI
+	url = https://github.com/Marian2910/LeavePlannerAPI.git
